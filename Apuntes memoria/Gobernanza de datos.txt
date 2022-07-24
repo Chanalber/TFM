@@ -1,0 +1,7 @@
+Herramientas de gobernanza consultadas:
+
+	-Onna: https://onna.com/pricing/free-trial/ (prueba de 14 dias solo)
+	-ADAudit Plus: https://www.manageengine.com/es/active-directory-audit/ (prueba de 			        solo 30 días)
+	-Profisee: https://profisee.com/demo/ (solo ofrecen una demo)
+
+A través de capterra (https://www.capterra.es/directory/30854/data-	governance/pricing/free/software) encontramos Talend Data Fabric 	(https://www.talend.com/products/data-fabric/) que sí ofrece una versión gratuita

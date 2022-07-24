@@ -1,0 +1,2 @@
+-Al pricnipio intenté importar en formato .xml la lista de EEUU pero tenía elementos anidados que daban problemas a la hora de pasar a DataFrame. Pero había una colección de csv's, cada uno correspondiente a uno de los elementos anidados de .xml de la lista que era más facil de transformar. Posteriormente y una vez puestos como DataFrame, se pudo hacer join a las tablas para extraer la info de la lista de sancionados de EEUU.
+
