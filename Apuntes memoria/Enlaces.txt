@@ -1,1 +1,16 @@
+01_EXTRAER_DATOS
+
+https://stackoverflow.com/questions/63226700/overwrite-existing-files-with-pythons-wget
+
+https://es.stackoverflow.com/questions/120084/c%C3%B3mo-descargar-un-archivo-csv-desde-internet-con-python-3
+
+
+
+
 https://elordenmundial.com/que-son-sanciones-internacionales/
+
+https://www.sas.com/content/dam/SAS/es_es/doc/other1/sas-consulting-web.pdf
+
+https://www.educative.io/answers/how-to-use-getclosematches-in-python
+
+https://www.ibidemgroup.com/edu/traduccion-automatica-python/

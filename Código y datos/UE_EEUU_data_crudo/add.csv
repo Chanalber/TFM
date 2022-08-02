@@ -7278,6 +7278,7 @@
 18743,28491,"d. 24 str. 2 ul. Novoslobodskaya","Moscow 127055","Russia",-0- 
 18743,52524,"12 B. Savvinsky Lane, building 9, floor 1, office 1, room 1","Moscow 119435","Russia",-0- 
 18744,28493,"d. 29/16 per. Sivtsev Vrazhek","Moscow 119002","Russia",-0- 
+18748,28501,"19 Vavilova St.","Moscow 117997","Russia",-0- 
 18749,28503,"d. 31 G ul. Shabolovka","Moscow 115162","Russia",-0- 
 18750,28505,"42 Bolshaya Yakimanka St., b. 1-2, office 209","Moscow 119049","Russia",-0- 
 18750,28506,"7 ul. Pavlovskaya","Moscow","Russia",-0- 
@@ -13710,6 +13711,7 @@
 34507,51708,"Ul. Kozhevnicheskaya, d. 14, str. 5","Moscow 115114","Russia",-0- 
 34508,51710,"ul. Spartakovskaya, d. 5, str. 1, pom. IX, et mansarda, kom 6A","Moscow 105066","Russia",-0- 
 34509,51712,"Millios Building, flat no: 2, Amathoyntos 42","Limassol 4532","Cyprus",-0- 
+34517,54428,"ul. Kuusinena, d. 11, korp. 1","Moscow 125252","Russia",-0- 
 34536,51764,"Nab. Presnenskaya D. 10, Blok S, Floor 16","Moscow 123112","Russia",-0- 
 34537,51766,"Ruesterstrasse 7-9","Frankfurt am Main 60325","Germany",-0- 
 34538,51768,"No.1 Yet Kieu str., Hoan Kiem District","Hanoi","Vietnam",-0- 
@@ -13901,6 +13903,7 @@
 34988,53094,"Jacob Jacobsstraat 56","Antwerp 2018","Belgium",-0- 
 34990,52498,"Partizanskii 64A","Minsk 220026","Belarus",-0- 
 34990,52499,"d.24, Nezhiloe pomeshchenie, ul Promyshlennaya","Minsk 220075","Belarus",-0- 
+34991,54350,"Evseeva 21a","Ramenskoye, Moscow Region 140100","Russia",-0- 
 34992,52502,"bld. 7, 50 let VLKSM st.","Baranovichi, Brest reg. 225415","Belarus",-0- 
 34993,52504,"1404 Iris Blue Building, Dubai Marina, P.O. Box 11850","Dubai","United Arab Emirates",-0- 
 34993,52505,"Calle Edificio El Noray, 2 Piso 1 B","Marbella","Spain",-0- 
@@ -14668,6 +14671,10 @@
 36098,54311,"11 Tikhvinsky Pereulok Bld.2","Moscow 127055","Russia",-0- 
 36098,54312,"11 Sadovaya-Kudrinskaya St.","Moscow 123231","Russia",-0- 
 36099,54314,"6 Nartov Str., Bldg.6","Nizhny Novgorod 603104","Russia",-0- 
+36136,54344,-0- ,"Moscow","Russia",-0- 
+36137,54346,"ul. Klary Tsetkin, 4","Moscow 127299","Russia",-0- 
+36138,54348,"Prospekt Mira, d. 102, str. 32, kom. 4","Moscow 129626","Russia",-0- 
+36139,57363,-0- ,"Moscow","Russia",-0- 
 36157,54366,-0- ,-0- ,"Mexico",-0- 
 36158,54368,-0- ,-0- ,"Mexico",-0- 
 36159,54370,-0- ,-0- ,"Mexico",-0- 
@@ -14749,11 +14756,12 @@
 36404,54676,-0- ,-0- ,"Russia",-0- 
 36405,54681,-0- ,-0- ,"Russia",-0- 
 36407,54684,-0- ,"Moscow","Russia",-0- 
+36408,54689,-0- ,-0- ,"Switzerland",-0- 
+36408,54690,-0- ,-0- ,"Russia",-0- 
 36409,54693,"12a Vtoroy Yuzhnoportovy Drive, b. 1/6","Moscow 115432","Russia",-0- 
 36410,54695,"10 Novodanilovskaya Emb.","Moscow 117105","Russia",-0- 
 36411,54697,"3 Poklonnaya St., floor 3, office 120","Moscow 121170","Russia",-0- 
 36416,54706,"19 Vavilova St.","Moscow 117997","Russia",-0- 
-36417,54708,"19 Vavilova St.","Moscow 117997","Russia",-0- 
 36418,54710,"18 Suschevsky Val Street, floor 7","Moscow 127018","Russia",-0- 
 36419,54715,"Room 1N, 68 letter N Bolshoy Sampsonievskiy Ave","St. Petersburg 194100","Russia",-0- 
 36420,54714,-0- ,-0- ,"Russia",-0- 
@@ -15175,6 +15183,13 @@
 37857,56732,"7 Mokhovaya","St. Saint Petersburg 191028","Russia",-0- 
 37858,56734,-0- ,-0- ,"Russia",-0- 
 37859,56736,"6 Molochnyy Lane Apt. 4","Moscow 119034","Russia",-0- 
+37860,56738,"31A Leningradsky prospekt, Bldg 1","Moscow 125284","Russia",-0- 
+37860,56740,"ul. Respubliki, D. 73, Kom. 100","Salekhard, Yamalo-Nenets Autonomous Region 629008","Russia",-0- 
+37861,56744,"2nd Floor, 2 Hume Street","Dublin 2","Ireland",-0- 
+37861,56745,"9 Pembroke Street Upper","Dublin 2","Ireland",-0- 
+37862,56748,"2nd Floor, 2 Hume Street","Dublin 2","Ireland",-0- 
+37863,56750,"Dubai Airport Freezone Authority, P.O. Box 491","Dubai 00000","United Arab Emirates",-0- 
+37864,56752,"31/F, Tower Two, Times Square, 1 Matheson Street, Causeway Bay","Hong Kong","China",-0- 
 37865,56754,-0- ,"Melitopol","Ukraine",-0- 
 37866,56756,"3 Chobotovskaya Apt. 148","Moscow 119634","Russia",-0- 
 37867,56758,"Chapaevsky Per 3-902","Moscow 125057","Russia",-0- 
@@ -15209,4 +15224,64 @@
 37932,56903,-0- ,-0- ,-0- ,-0- 
 37933,56905,-0- ,-0- ,-0- ,-0- 
 37936,56924,"49 Stirling Road #01-495","141049","Singapore",-0- 
+37996,56984,-0- ,"Magnitogorsk","Russia",-0- 
+37998,56987,"93 Kirov Street","Magnitogorsk 455000","Russia",-0- 
+38016,57004,"70, ul. Kirova Magnitogorsk","Chelyabinskaya Obl. 455019","Russia",-0- 
+38097,57105,"Nab. Presnenskaya D. 8, Str. 1, ET. 7, Pom. I, Kom. 3 Rab. Mesto 7.10","Moscow 123112","Russia",-0- 
+38136,57144,"Shokina Square, House 1, Bld. 7 Off. 7237","Zelenograd, Moscow 124498","Russia",-0- 
+38137,57146,"Room 4, Office 1, 3rd Floor, Building 7, House 9a, 2nd Sinichkina Str.","Moscow 111020","Russia",-0- 
+38138,57148,"2k4 Pionerskaya Str.","Korolyov, Moscow Region 141074","Russia",-0- 
+38139,57150,"Building 119A Leninskiy Prospekt, 17A, 2nd Floor","Voronezh 394033","Russia",-0- 
+38140,57152,"54 Maltseva Str.","Vologda, Vologda Region 160009","Russia",-0- 
+38156,57164,"44, Karakozova Street","Penza 440600","Russia",-0- 
+38157,57169,"5, Bld. 2, Georgievsky Avenue","Zelenograd, Moscow 124460","Russia",-0- 
+38158,57173,-0- ,"Moscow","Russia",-0- 
+38159,57168,"9 Sovetskaya Str.","Penza, Penza Region 440026","Russia",-0- 
+38160,57171,"Bld. 6, Pl. IX, Office 17, Solnechnaya Alleya","Zelenograd, Moscow 124527","Russia",-0- 
+38161,57174,"27, Engels Prospect","Saint Petersburg 194156","Russia",-0- 
+38162,57176,"ul Kolpakova, 2A / lit B1, 3 etazh Kabinet 86,87","Mytishchi, Moskovskaya 141002","Russia",-0- 
+38163,57180,"K. 100, KOM. 205","Zelenograd, Moscow 124482","Russia",-0- 
+38164,57179,"St. 8 Marta, House 10, Structure 1","Moscow 127083","Russia",-0- 
+38165,57182,"24, Vavilova st.","Moscow 119334","Russia",-0- 
+38166,57186,"Bolshaya Dorogomilovskaya Str., 10-50","Moscow 121059","Russia",-0- 
+38167,57185,"10 Panfilovsky avenue","Zelenograd, Moscow 124460","Russia",-0- 
+38176,57204,"Krasnoarmeyskaya 103","Bryansk 241037","Russia",-0- 
+38177,57206,"54 Cherepanovykh Driveway","Moscow 125183","Russia",-0- 
+38178,57209,"119A Leninsky Ave","Voronezh, Voronezh region 394033","Russia",-0- 
+38180,57213,"Pass. Okruzhnoy, House 27","Moscow 105187","Russia",-0- 
+38181,57215,"Nakhimovsky Prospect, 36, Building 1","Moscow 117218","Russia",-0- 
+38196,57257,"5 Nobelya str., Skolkovo Innovation Centre","Moscow 121205","Russia",-0- 
+38216,57244,-0- ,"Moscow","Russia",-0- 
+38216,57245,"Witanhurst, 41 Highgate West Hill","London","United Kingdom",-0- 
+38217,57247,-0- ,-0- ,"Russia",-0- 
+38218,57249,"Ul. Shchipok, D. 20, Komnata 5","Moscow 115054","Russia",-0- 
+38221,57256,-0- ,-0- ,-0- ,-0- 
+38222,57259,"Bolshoy Boulevard 30, bld. 1","Moscow 121205","Russia",-0- 
+38223,57261,"42 str 1 Skolkovo Innovatsionnogo Tsentra Territory, Bolshoy Boulevard","Moscow 121205","Russia",-0- 
+38236,57264,-0- ,-0- ,"Russia",-0- 
+38237,57265,-0- ,-0- ,-0- ,-0- 
+38238,57267,-0- ,-0- ,"Russia",-0- 
+38239,57270,"19 A 20 Malaya Bronnaya Street","Moscow 123104","Russia",-0- 
+38280,57300,-0- ,"Kherson Region","Ukraine",-0- 
+38281,57302,"Apartment 48, Ilyushin Kulika Street 129","Kherson, Kherson Region 73009","Ukraine",-0- 
+38282,57304,"36 Suvorova St., Apt. 28","Kherson, Kherson Oblast 73009","Ukraine",-0- 
+38283,57306,-0- ,"Kherson Oblast","Ukraine",-0- 
+38284,57308,-0- ,"Mariupol","Ukraine",-0- 
+38316,57344,"9 Institutskiy Per.","Dolgoprudny, Moscow Region 141701","Russia",-0- 
+38316,57345,"1 A Kerchenskaya St.","Moscow 117303","Russia",-0- 
+38316,57346,"Ulitsa Gagarina 16","Zhukovsky, Moscow Region 140180","Russia",-0- 
+38316,57347,"Klimentovsky Pereulok 1 Stroyeniye 1","Moscow 115184","Russia",-0- 
+38317,57351,"Alparslan Turkes Bulvari, No: 342-91, Ozerli Mahallesi","Dortyol 31600","Turkey",-0- 
+38317,57352,-0- ,"Kocaeli, Dilovasi","Turkey",-0- 
+38317,57353,-0- ,"Istanbul","Turkey",-0- 
+38338,57371,"P.O. Box 126242",-0- ,"United Arab Emirates",-0- 
+38338,57374,"Plot No. 117-635","Dubai","United Arab Emirates",-0- 
+38339,57373,"Mau Lam Comm Bldg, 16-18 Mau Lam Str Jordan K1","Hong Kong","China",-0- 
+38356,57384,"Room 3224 Qinghai Building, Tiangqing Village, Tin Shui Wai Yuen Long District","Hong Kong","China",-0- 
+38357,57386,"Room 023, 9/F Blk G Kwai Shing Ind Building (Stage 2), 42-46 Tai Lin Pai Road, Kwai Chung NT","Hong Kong","China",-0- 
+38357,57387,"Retail Lot L3-1, Level 3, Gateway Klia 2, Kuala Lumpur International Airport 2","Sepang, Selangor Darul Ehsan 64000","Malaysia",-0- 
+38377,57424,"24-07, Shenton House, 3, Shenton Way","Singapore 068805","Singapore",-0- 
+38397,57429,"9th Floor, Block C, Qingdao Plaza, 381, Dunhua Lu, Shibei Qu","Qingdao, Shandong 266034","China",-0- 
+38397,57430,"Unit D, 16/F, One Capital Place, 18 Luard Road, Wan Chai","Hong Kong","China",-0- 
+38418,57447,-0- ,-0- ,-0- ,-0- 
 
