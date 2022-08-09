@@ -14,3 +14,9 @@ https://www.sas.com/content/dam/SAS/es_es/doc/other1/sas-consulting-web.pdf
 https://www.educative.io/answers/how-to-use-getclosematches-in-python
 
 https://www.ibidemgroup.com/edu/traduccion-automatica-python/
+
+EXPRESION REGULAR:
+
+https://regex101.com/
+
+https://foroayuda.es/concatenar-cadenas-de-varias-filas-usando-pandas-groupby/
