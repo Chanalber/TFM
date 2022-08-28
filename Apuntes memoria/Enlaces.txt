@@ -20,3 +20,7 @@ EXPRESION REGULAR:
 https://regex101.com/
 
 https://foroayuda.es/concatenar-cadenas-de-varias-filas-usando-pandas-groupby/
+
+
+
+https://www.freecodecamp.org/news/what-is-hashing/
