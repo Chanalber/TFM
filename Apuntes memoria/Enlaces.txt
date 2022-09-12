@@ -22,5 +22,7 @@ https://regex101.com/
 https://foroayuda.es/concatenar-cadenas-de-varias-filas-usando-pandas-groupby/
 
 
+https://docplayer.es/222676367-Ebook-procesos-etl-la-base-de-la-inteligencia-de-negocio.html
 
-https://www.freecodecamp.org/news/what-is-hashing/
+Diagrama de siueta:
+https://programmerclick.com/article/4835528526/
