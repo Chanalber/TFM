@@ -1,6 +1,24 @@
-1 - Estas listas son de dominio público y se puede accder a ellas a través de la web.
+2 - Estas listas son de dominio público y se puede accder a ellas a través de la web.
 
 Tanto el buscador de EEUU como el informe de la Unión Europea toman la información
 de archivos de datos que se van modificando y actualizando periódicamente.
 
-2 - Algunas de las consecuencias que pueden tener estas sanciones incluyen: ...
+3 - Algunas de las consecuencias que pueden tener estas sanciones incluyen: ...
+
+4 - Para poder aplicar las herramientas de análisis de datos, primero hay que construir el proceso ETL
+y de limpieza de datos necesario para mejorar la calidad del dato e integrar los dos archivos de datos en una
+misma estructura:
+
+extraer y seleccionar los datos de interés desde las fuentes
+transformacion y limpieza de los datos, cambiando al formato correcto, eliminando duplicados, interpretando los nulos..
+integración de las dos fuentes de origen en una misma tabla relacional
+
+5 - Desde Python hace una petición HTTP a las páginas web que contienen los archivos de datos.
+ Estos estan en formato csv y deben ponerse en formato DataFrame para poder ser leídos y analizados en Python.
+
+Las variables de interés para el estudio son las que ocntienen info. del nombre, ubicación y tipo de sancionado. 
+
+7 - Con los datos ya procesados, se utiliza PowerBI como herramienta de visualización. Sus ventajas son ... (permite llevar a cabo un análisis de datos más profundo, cualquier persona puede manipular el dashboard sin tener conocimientos de programacion)
+Se muestran los dos cuadros de mando creados:
+- Uno general
+- Uno específico de ubicaciones
